@@ -7,10 +7,10 @@ const App = () => {
     const [text, setState] = useState("");
     return (
         <React.Fragment>
-            <View style={style.titleView}>
+            {/*<View style={style.titleView}>
                 <Text style={style.title}>Maigc 8 Ball</Text>
-            </View>
-            <ImageBackground
+            </View> */}
+            {/*{<ImageBackground
                 style={style.imageBackground}
                 source={require('./assets/triangle-1.png')}
             >
@@ -25,8 +25,8 @@ const App = () => {
                     >
                     </Button>
                     <Text testID="response-text" style={style.response}>{text}</Text>
-                </View>
-            </ImageBackground>
+                    </View>
+            </ImageBackground> */}
         </React.Fragment>
         
     );
