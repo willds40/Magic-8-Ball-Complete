@@ -24,7 +24,7 @@ const App = () => {
                         })}
                     >
                     </Button>
-                    {/*<Text testID="response-text" style={style.response}>{text}</Text>*/}
+                    {/*<Text testID="response-text" style={style.response}>{text}</Text>*/} 
                     </View>
             </ImageBackground> */}
         </React.Fragment>

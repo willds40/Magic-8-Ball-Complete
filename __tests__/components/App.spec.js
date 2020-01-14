@@ -16,7 +16,7 @@ describe('App', () => {
         // expect(queryByText('Click Me')).not.toBeNull();
     });
 
-    it('response text is an empty string on start', () => {
+    it('renders empty return string on start', () => {
         // const { getByTestId } = render(<App />);
         // expect(getByTestId('response-text')).toHaveTextContent(''); ``
     });
